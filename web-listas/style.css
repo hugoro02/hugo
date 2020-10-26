@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightcyan;
+}
+
+ul{
+    border-style: dotted;
+    width: 40%;
+}
+ol{
+    border-style: groove;
+    width: 80%;
+    list-style-type:decimal-leading-zero;
+
+}
+
+li{
+    width: 60%;
+}
+
+#celdaD{
+    color: red;
+}
+
+#textoB{
+    color: seagreen;
+}
+.listaromanos{
+    list-style-type: lower-roman;
+}
+
+.listaAzul{
+    color: lightblue;
+}
+.Uno{
+    list-style-type: armenian;
+}
